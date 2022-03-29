@@ -18,6 +18,7 @@
   "homepage": "https://github.com/WGand/password_manager#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cryptr": "^6.0.2",
     "express": "^4.17.3",
     "postgres": "^3.0.0"
   }
